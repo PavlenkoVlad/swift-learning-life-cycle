@@ -12,6 +12,7 @@
 		BC56C51022CA43140078AD21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC56C50E22CA43140078AD21 /* Main.storyboard */; };
 		BC56C51222CA43150078AD21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC56C51122CA43150078AD21 /* Assets.xcassets */; };
 		BC56C51522CA43150078AD21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC56C51322CA43150078AD21 /* LaunchScreen.storyboard */; };
+		BC56C51D22CA4D140078AD21 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC56C51C22CA4D140078AD21 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BC56C51122CA43150078AD21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC56C51422CA43150078AD21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC56C51622CA43150078AD21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC56C51C22CA4D140078AD21 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BC56C50A22CA43140078AD21 /* AppDelegate.swift */,
 				BC56C50C22CA43140078AD21 /* ViewController.swift */,
 				BC56C50E22CA43140078AD21 /* Main.storyboard */,
+				BC56C51C22CA4D140078AD21 /* SecondViewController.swift */,
 				BC56C51122CA43150078AD21 /* Assets.xcassets */,
 				BC56C51322CA43150078AD21 /* LaunchScreen.storyboard */,
 				BC56C51622CA43150078AD21 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC56C51D22CA4D140078AD21 /* SecondViewController.swift in Sources */,
 				BC56C50D22CA43140078AD21 /* ViewController.swift in Sources */,
 				BC56C50B22CA43140078AD21 /* AppDelegate.swift in Sources */,
 			);
